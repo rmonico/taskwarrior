@@ -25,3 +25,6 @@ new [annotation_1717428034:"Duplicado, tarefa movida para o taskwarrior do itask
 time 1717428240
 new [annotation_1717427319:"Movido para o taskwarrior do itask" description:"Adicionar suporte ao comando calendar" end:"1717427319" entry:"1637965395" modified:"1717427319" project:"dev.tw" status:"deleted" uuid:"c866c4d9-a6dd-4f86-9729-cdf33c67a5dd"]
 ---
+time 1717958556
+new [description:"Add tree prefixes to task description" entry:"1717958556" modified:"1717958556" status:"pending" uuid:"930dc221-77af-4ff5-a6fc-068c7e9866f9"]
+---
